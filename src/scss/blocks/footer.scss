@@ -1,0 +1,102 @@
+/* ESTILOS DEL FOOTER */
+@use '../config/variables.scss' as *;
+@use '../mixins/responsive.scss' as *;
+@use '../mixins/hover.scss' as *;
+
+.footer{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 14rem;
+    color: white;
+    background-color: var(--very-dark-cyan);
+    
+    &__info{
+        @include responsive(laptop){
+            display: flex;
+            flex-direction: row;
+            align-items: flex-start;
+            justify-content: flex-start;
+            gap: 100px;
+        }
+    }
+    &__logo{
+        margin-bottom: 1rem;
+    }
+
+    &__menu{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        text-align: left;
+        padding-bottom: 2rem;
+
+        @include responsive(laptop){
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 170px;
+        }
+
+    }
+    &__copyright{
+        padding-bottom: 4rem;
+        @include responsive(laptop){
+            text-align: right;
+            padding-right: 2rem;
+        }
+    }
+}
+
+.contact-info{
+    @include responsive(laptop){
+        width: 30%;
+    }
+}
+
+.location-info,
+.phone-info,
+.mail-info{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    @include responsive(laptop){
+       
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+}
+
+.mail-info{
+    margin-bottom: 2rem;
+}
+
+.menu__item{
+    margin-bottom: 1rem;
+}
+
+.social-media{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    height:25px;
+    width: 25px;
+    border: solid 2px white;
+    margin-bottom: 2rem;
+    &:hover {
+     @include hover {
+        cursor: pointer;
+         color: var(--pink);
+         border: solid 2px var(--pink);
+     }
+    }
+}

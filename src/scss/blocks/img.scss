@@ -1,0 +1,8 @@
+@use '../mixins/responsive.scss' as *;
+
+.article__img{
+
+    @include responsive(laptop) {
+        width: 40%;
+    }
+}

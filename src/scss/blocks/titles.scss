@@ -1,0 +1,17 @@
+@use '../mixins/responsive.scss' as *;
+
+.header-title{
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight:800;
+     @include responsive(laptop) {
+        padding-left: 0; 
+    }
+}
+.info__title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    font-size: 1.5rem;
+}

@@ -1,0 +1,29 @@
+@use '../mixins/responsive.scss' as *;
+
+.text{
+    line-height: 20px;
+    color: var(--very-dark-cyan);
+    padding-bottom: 2rem;
+   
+}
+
+.article,
+.article--top,
+.article--bottom{
+    @include responsive(laptop) {
+        text-align: left;  
+    }
+    
+}
+.text--center {
+    margin-left: auto;
+    margin-right: auto;
+    @include responsive(laptop) {
+        margin: 0; 
+    }
+}
+.footer-text{
+    line-height: 20px;
+    text-align: left;
+ 
+}
