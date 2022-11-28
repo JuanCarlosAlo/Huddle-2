@@ -1,6 +1,6 @@
-# Loopstudios
+# Huddle (blocks)
 
-![Imagen del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/loopstudios/main/docs/assets/loop-desktop.jpeg)
+![Imagen del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/Huddle-2/main/design/wn3pttg6nwgymod2iqxy.jpg?token=GHSAT0AAAAAAB3AUGTP74CPO2TZESUA4CR6Y4FI7EA)
 
 ## Ejemplo en vivo
 
