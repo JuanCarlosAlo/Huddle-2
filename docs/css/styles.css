@@ -442,7 +442,7 @@ body {
 }
 @media (hover: hover) {
   .button--header:hover {
-    border: solid #ffb8e5;
+    border: 2px solid #ffb8e5;
     color: #ffb8e5;
   }
 }
@@ -489,12 +489,13 @@ body {
   padding-left: 2rem;
   padding-right: 2rem;
   margin-bottom: 4rem;
-  background-image: url(/dist/assets/images/bg-hero-mobile.svg);
+  background-image: url(assets/images/bg-hero-mobile.svg);
   background-color: var(--very-pale-cyan);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 .header__top {
+  height: 40px;
   display: flex;
   align-items: center;
   justify-content: space-between;
