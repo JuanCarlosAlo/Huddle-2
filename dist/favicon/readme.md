@@ -1,6 +1,6 @@
 # Huddle (blocks)
 
-![Imagen del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/Huddle-2/main/design/wn3pttg6nwgymod2iqxy.jpg?token=GHSAT0AAAAAAB3AUGTPKRFFZQ2EBLBRJBKCY4FZZWQ)
+![Imagen del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/Huddle-2/main/design/wn3pttg6nwgymod2iqxy.jpg?token=GHSAT0AAAAAAB3AUGTPKISGNB472QD6BS26Y4F2F6A)
 
 ## Ejemplo en vivo
 
@@ -29,15 +29,15 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 ## Ordenador
 
-![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/loopstudios/main/docs/assets/images/read-me-img-1.jpg)
+![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/Huddle-2/main/design/active.jpg?token=GHSAT0AAAAAAB3AUGTOCZX2AQGHTHBKVLE2Y4F2EXQ)
 
 ## Estados activos
 
-![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/loopstudios/main/docs/assets/images/read-me-img-2.jpg)
+![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/Huddle-2/main/design/active.jpg?token=GHSAT0AAAAAAB3AUGTOCZX2AQGHTHBKVLE2Y4F2EXQ)
 
 ## Movil
 
-![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/loopstudios/main/docs/assets/images/read-me-img-3.jpg)
+![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/Huddle-2/main/design/mobile.jpg?token=GHSAT0AAAAAAB3AUGTPEHLGXPJWKMKTIU2WY4F2FQQ)
 
 ## Autor 
 
