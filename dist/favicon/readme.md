@@ -1,6 +1,6 @@
 # Huddle (blocks)
 
-![Imagen del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/Huddle-2/main/design/wn3pttg6nwgymod2iqxy.jpg?token=GHSAT0AAAAAAB3AUGTP74CPO2TZESUA4CR6Y4FI7EA)
+![Imagen del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/Huddle-2/main/design/wn3pttg6nwgymod2iqxy.jpg?token=GHSAT0AAAAAAB3AUGTPKRFFZQ2EBLBRJBKCY4FZZWQ)
 
 ## Ejemplo en vivo
 
