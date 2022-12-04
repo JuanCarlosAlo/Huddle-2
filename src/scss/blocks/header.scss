@@ -1,44 +1,42 @@
-@use '../mixins/responsive.scss' as*;
+@use "../mixins/responsive.scss" as *;
 
-.header{
-    padding-top: 2rem ;
-    padding-left: 2rem ;
-    padding-right: 2rem ;
-    margin-bottom: 4rem;
-    background-image: url(/dist/assets/images/bg-hero-mobile.svg);
-    background-color: var(--very-pale-cyan);
-    background-repeat: no-repeat;
-    background-size: cover;
-    
-    &__top{
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        margin-bottom: 6rem;
-}
-    &__img{
-        padding-bottom: 2rem;
-        margin-left: auto;
-        margin-right: auto;
-        @include responsive(laptop) {
-            width: 50%;
-        }
-    }
+.header {
+  padding-top: 2rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-bottom: 4rem;
+  background-image: url(assets/images/bg-hero-mobile.svg);
+  background-color: var(--very-pale-cyan);
+  background-repeat: no-repeat;
+  background-size: contain;
 
-  &__info{
+  &__top {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 6rem;
+  }
+  &__img {
+    padding-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
     @include responsive(laptop) {
-        display: flex;
-        align-items: center;
-        padding-left: 4rem;
-        padding-right: 4rem;
-        text-align: left;
-        
-        &--text{
-            width: 40%;
-        }
-       
+      width: 50%;
+    }
+  }
+
+  &__info {
+    @include responsive(laptop) {
+      display: flex;
+      align-items: center;
+      padding-left: 4rem;
+      padding-right: 4rem;
+      text-align: left;
+
+      &--text {
+        width: 40%;
+      }
     }
   }
 }
-
-
