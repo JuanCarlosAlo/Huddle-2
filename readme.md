@@ -43,7 +43,7 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 ## Autor
 
 
-- [Email](jc.alonsome@gmail.com)
+-  Email: jc.alonsome@gmail.com
 - [Linkedin](https://www.linkedin.com/in/juan-carlos-alonso-966280166/)
 - [GitHub](https://github.com/JuanCarlosAlo)
 
