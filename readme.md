@@ -4,8 +4,8 @@
 
 ## Ejemplo en vivo
 
-- [https://github.com/JuanCarlosAlo/loopstudios](URL-de-github-pages-de-este-proyecto)
-- [https://juancarlosalo.github.io/loopstudios/](URL-de-la-api)
+- [Live Demo](https://juancarlosalo.github.io/Huddle-2/)
+
 
 ## Descripción 
 
@@ -29,20 +29,20 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 ## Ordenador
 
-![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/Huddle-2/main/design/active.jpg?token=GHSAT0AAAAAAB3AUGTOCZX2AQGHTHBKVLE2Y4F2EXQ)
+![Captura del proyecto](https://github.com/JuanCarlosAlo/Huddle-2/blob/main/design/desktop.jpg?raw=true)
 
 ## Estados activos
 
-![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/Huddle-2/main/design/active.jpg?token=GHSAT0AAAAAAB3AUGTOCZX2AQGHTHBKVLE2Y4F2EXQ)
+![Captura del proyecto](https://github.com/JuanCarlosAlo/Huddle-2/blob/main/design/active.jpg?raw=true)
 
 ## Movil
 
-![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/Huddle-2/main/design/mobile.jpg?token=GHSAT0AAAAAAB3AUGTPEHLGXPJWKMKTIU2WY4F2FQQ)
+![Captura del proyecto](https://github.com/JuanCarlosAlo/Huddle-2/blob/main/design/mobile.jpg?raw=true)
 
 ## Autor 
 
 
-- [Email](juancarlosam@gmail.com)
+- [Email](jc.alonsome@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/juan-carlos-alonso-966280166/)
 - [GitHub](https://github.com/JuanCarlosAlo)
 
